@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{D1950C8F-6111-4FE5-AB7E-29FD3FA7E16C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAO", "DAO\DAO.csproj", "{D1950C8F-6111-4FE5-AB7E-29FD3FA7E16C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{CC299C5C-2B47-4C26-9263-4135EBB041CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repositories", "Repositories\Repositories.csproj", "{CC299C5C-2B47-4C26-9263-4135EBB041CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{423017C4-E099-474D-BD2C-56F3ACBF1734}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{423017C4-E099-474D-BD2C-56F3ACBF1734}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Entities\Domain.csproj", "{DFD2CBF7-C260-4C30-90C6-15DE809E7326}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Entities\Domain.csproj", "{DFD2CBF7-C260-4C30-90C6-15DE809E7326}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller", "Controller\Controller.csproj", "{DD17D54D-8475-4A36-AD2B-D64BCFD90E00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{DFD2CBF7-C260-4C30-90C6-15DE809E7326}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFD2CBF7-C260-4C30-90C6-15DE809E7326}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFD2CBF7-C260-4C30-90C6-15DE809E7326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD17D54D-8475-4A36-AD2B-D64BCFD90E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD17D54D-8475-4A36-AD2B-D64BCFD90E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD17D54D-8475-4A36-AD2B-D64BCFD90E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD17D54D-8475-4A36-AD2B-D64BCFD90E00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

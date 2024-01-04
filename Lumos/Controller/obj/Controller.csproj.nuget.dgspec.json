@@ -1,9 +1,68 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\Repositories\\Repositories.csproj": {}
+    "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\Controller\\Controller.csproj": {}
   },
   "projects": {
+    "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\Controller\\Controller.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\Controller\\Controller.csproj",
+        "projectName": "Controller",
+        "projectPath": "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\Controller\\Controller.csproj",
+        "packagesPath": "C:\\Users\\DUCBUI\\.nuget\\packages\\",
+        "outputPath": "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\Controller\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DUCBUI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\Services\\Services.csproj": {
+                "projectPath": "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\Services\\Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\DAO\\DAO.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -170,6 +229,65 @@
             "projectReferences": {
               "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\DAO\\DAO.csproj": {
                 "projectPath": "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\DAO\\DAO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\DUCBUI\\.nuget\\packages\\",
+        "outputPath": "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DUCBUI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\Repositories\\Repositories.csproj"
               }
             }
           }
