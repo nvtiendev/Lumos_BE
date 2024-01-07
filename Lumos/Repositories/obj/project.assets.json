@@ -2901,19 +2901,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DUCBUI\\.nuget\\packages\\": {}
+    "C:\\Users\\nvtie\\.nuget\\packages\\": {},
+    "D:\\visual studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "C:\\Users\\nvtie\\Desktop\\PRN231\\Group project\\Lumos_BE\\Lumos\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\Repositories\\Repositories.csproj",
-      "packagesPath": "C:\\Users\\DUCBUI\\.nuget\\packages\\",
-      "outputPath": "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\Repositories\\obj\\",
+      "projectPath": "C:\\Users\\nvtie\\Desktop\\PRN231\\Group project\\Lumos_BE\\Lumos\\Repositories\\Repositories.csproj",
+      "packagesPath": "C:\\Users\\nvtie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nvtie\\Desktop\\PRN231\\Group project\\Lumos_BE\\Lumos\\Repositories\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\visual studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\DUCBUI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nvtie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2927,8 +2932,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\DAO\\DAO.csproj": {
-              "projectPath": "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\DAO\\DAO.csproj"
+            "C:\\Users\\nvtie\\Desktop\\PRN231\\Group project\\Lumos_BE\\Lumos\\DAO\\DAO.csproj": {
+              "projectPath": "C:\\Users\\nvtie\\Desktop\\PRN231\\Group project\\Lumos_BE\\Lumos\\DAO\\DAO.csproj"
             }
           }
         }
@@ -2958,7 +2963,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

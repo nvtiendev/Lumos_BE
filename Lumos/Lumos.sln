@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Servic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Entities\Domain.csproj", "{DFD2CBF7-C260-4C30-90C6-15DE809E7326}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller", "Controller\Controller.csproj", "{DD17D54D-8475-4A36-AD2B-D64BCFD90E00}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller", "Controller\Controller.csproj", "{B8914812-9BFC-44DC-A4A4-C298C0C03C98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{DFD2CBF7-C260-4C30-90C6-15DE809E7326}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFD2CBF7-C260-4C30-90C6-15DE809E7326}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFD2CBF7-C260-4C30-90C6-15DE809E7326}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DD17D54D-8475-4A36-AD2B-D64BCFD90E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DD17D54D-8475-4A36-AD2B-D64BCFD90E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DD17D54D-8475-4A36-AD2B-D64BCFD90E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DD17D54D-8475-4A36-AD2B-D64BCFD90E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8914812-9BFC-44DC-A4A4-C298C0C03C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8914812-9BFC-44DC-A4A4-C298C0C03C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8914812-9BFC-44DC-A4A4-C298C0C03C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8914812-9BFC-44DC-A4A4-C298C0C03C98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
