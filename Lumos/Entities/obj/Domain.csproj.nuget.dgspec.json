@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\Entities\\Domain.csproj": {}
+    "C:\\Users\\nvtie\\Desktop\\PRN231\\Group project\\Lumos_BE\\Lumos\\Entities\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\Entities\\Domain.csproj": {
+    "C:\\Users\\nvtie\\Desktop\\PRN231\\Group project\\Lumos_BE\\Lumos\\Entities\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\Entities\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\nvtie\\Desktop\\PRN231\\Group project\\Lumos_BE\\Lumos\\Entities\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\Entities\\Domain.csproj",
-        "packagesPath": "C:\\Users\\DUCBUI\\.nuget\\packages\\",
-        "outputPath": "C:\\Ducbui\\FPTU\\Sem8\\Lumos_BE\\Lumos\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\nvtie\\Desktop\\PRN231\\Group project\\Lumos_BE\\Lumos\\Entities\\Domain.csproj",
+        "packagesPath": "C:\\Users\\nvtie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nvtie\\Desktop\\PRN231\\Group project\\Lumos_BE\\Lumos\\Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\visual studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\DUCBUI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nvtie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
