@@ -1,0 +1,15 @@
+C:\Users\nvtie\Desktop\PRN231\Group project\Lumos_BE\Lumos\DAO\bin\Debug\net6.0\DAO.deps.json
+C:\Users\nvtie\Desktop\PRN231\Group project\Lumos_BE\Lumos\DAO\bin\Debug\net6.0\DAO.dll
+C:\Users\nvtie\Desktop\PRN231\Group project\Lumos_BE\Lumos\DAO\bin\Debug\net6.0\DAO.pdb
+C:\Users\nvtie\Desktop\PRN231\Group project\Lumos_BE\Lumos\DAO\bin\Debug\net6.0\Domain.dll
+C:\Users\nvtie\Desktop\PRN231\Group project\Lumos_BE\Lumos\DAO\bin\Debug\net6.0\Domain.pdb
+C:\Users\nvtie\Desktop\PRN231\Group project\Lumos_BE\Lumos\DAO\obj\Debug\net6.0\DAO.csproj.AssemblyReference.cache
+C:\Users\nvtie\Desktop\PRN231\Group project\Lumos_BE\Lumos\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvtie\Desktop\PRN231\Group project\Lumos_BE\Lumos\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+C:\Users\nvtie\Desktop\PRN231\Group project\Lumos_BE\Lumos\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+C:\Users\nvtie\Desktop\PRN231\Group project\Lumos_BE\Lumos\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\nvtie\Desktop\PRN231\Group project\Lumos_BE\Lumos\DAO\obj\Debug\net6.0\DAO.csproj.CopyComplete
+C:\Users\nvtie\Desktop\PRN231\Group project\Lumos_BE\Lumos\DAO\obj\Debug\net6.0\DAO.dll
+C:\Users\nvtie\Desktop\PRN231\Group project\Lumos_BE\Lumos\DAO\obj\Debug\net6.0\refint\DAO.dll
+C:\Users\nvtie\Desktop\PRN231\Group project\Lumos_BE\Lumos\DAO\obj\Debug\net6.0\DAO.pdb
+C:\Users\nvtie\Desktop\PRN231\Group project\Lumos_BE\Lumos\DAO\obj\Debug\net6.0\ref\DAO.dll
